@@ -158,7 +158,7 @@ nacos/nacos-server:v2.1.2
 
 ## 启动前端项目
 - 安装 Node.js
-- 进入 12306/console-vue 目录执行通过终端工具依次执行下述命令
+- 进入 fake12306/console-vue 目录执行通过终端工具依次执行下述命令
   ```shell
   npm install -g yarn
   yarn install
